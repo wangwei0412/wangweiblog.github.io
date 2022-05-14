@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/wangwei0412/wangweiblog.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+王伟的第一次博客记录，哈哈哈，非常开心
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
